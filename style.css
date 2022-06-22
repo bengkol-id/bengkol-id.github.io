@@ -46,7 +46,7 @@
    //////////////////////////*/
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #3a3f52;
 }
 
@@ -234,7 +234,7 @@ section {
 ===============================================*/
 
 #hero {
-  background-color: #f6f8f9;
+  background-color: #ffffff;
 }
 
 #hero h1 {
@@ -424,7 +424,8 @@ section {
 ===============================================*/
 
 #call-to-action {
-  background-image: url("images/call-to-action.png");
+  /* background-image: url("images/call-to-action.png"); */
+  background-color: #4285f4;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
@@ -461,13 +462,13 @@ section {
 ===============================================*/
 
 footer {
-  background-color: #292c31;
+  background-color: #f3f3f3;
   padding: 60px 0;
-  color: #62656a;
+  color: #000000;
 }
 
 footer h5 {
-  color: #aeb3bd;
+  color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-bottom: 20px;
